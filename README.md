@@ -23,8 +23,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/mayurDayal2000/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/mayurDayal2000/qr-code-component-main](https://github.com/mayurDayal2000/qr-code-component-main)
+- Live Site URL: [https://mayurdayal2000.github.io/qr-code-component-main/](https://mayurdayal2000.github.io/qr-code-component-main/)
 
 
 ## Built with
